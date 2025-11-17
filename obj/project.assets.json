@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Frontend to Backend\\Backend-MVC-TASK 1\\Backend-MVC-TASK 1.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Frontend to Backend\\Backend-MVC-TASK\\Backend-MVC-TASK 1.csproj",
       "projectName": "Backend-MVC-TASK 1",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Frontend to Backend\\Backend-MVC-TASK 1\\Backend-MVC-TASK 1.csproj",
+      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Frontend to Backend\\Backend-MVC-TASK\\Backend-MVC-TASK 1.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Frontend to Backend\\Backend-MVC-TASK 1\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Frontend to Backend\\Backend-MVC-TASK\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
