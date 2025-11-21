@@ -17,6 +17,12 @@ namespace Backend_MVC_TASK_1
             });
 
             var app = builder.Build();
+
+            app.MapControllerRoute(
+               "area",
+               "{area:exists}{controller=home}/{action=index}/{id?}"
+               );
+
             app.UseStaticFiles();
 
             app.MapControllerRoute(

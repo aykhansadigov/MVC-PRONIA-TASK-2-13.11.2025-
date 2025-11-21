@@ -13,20 +13,20 @@ namespace Backend_MVC_TASK_1.Controllers
         {
             _context = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
           
 
             HomeVM homeVM = new HomeVM()
             {
-                Slides = _context.Slides
+                Slides = await _context.Slides
                 .OrderBy(s => s.Order)
                 .Take(2)
-                .ToList(),
+                .ToListAsync(),
 
-                Products = _context.Products
+                Products = await _context.Products
                 .Include(p => p.ProductImages.Where(pi => pi.IsPrimaryImage != null))
-                .ToList()
+                .ToListAsync()
 
             };
 

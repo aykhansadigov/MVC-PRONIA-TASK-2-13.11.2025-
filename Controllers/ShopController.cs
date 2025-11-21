@@ -19,26 +19,26 @@ namespace Backend_MVC_TASK_1.Controllers
             return View();
         }
 
-        public IActionResult Details(int? id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id is null || id < 1)
             {
                 return BadRequest();
             }
 
-            Product? product = _context.Products
+            Product? product =await _context.Products
                 .Include(p=>p.ProductImages.OrderByDescending(pi=>pi.IsPrimaryImage))
                 .Include(p=>p.Category)
-                .FirstOrDefault(p => p.Id == id);
+                .FirstOrDefaultAsync(p => p.Id == id);
             if(product is null)
             {
                 return NotFound();
             }
 
-            List<Product> relatedProducts = _context.Products
+            List<Product> relatedProducts =await _context.Products
                 .Where(p=>p.CategoryId==product.CategoryId && p.Id!=id)
                 .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimaryImage!= null))
-                .ToList();
+                .ToListAsync();
 
             DetailsVM detailsVM = new()
             {
