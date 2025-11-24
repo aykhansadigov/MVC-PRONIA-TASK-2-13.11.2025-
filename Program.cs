@@ -20,7 +20,7 @@ namespace Backend_MVC_TASK_1
 
             app.MapControllerRoute(
                "area",
-               "{area:exists}{controller=home}/{action=index}/{id?}"
+               "{area:exists}/{controller=home}/{action=index}/{id?}"
                );
 
             app.UseStaticFiles();
@@ -29,8 +29,6 @@ namespace Backend_MVC_TASK_1
                 "default",
                 "{controller=home}/{action=index}/{id?}"
                 );
-
-
             app.Run();
         }
     }
