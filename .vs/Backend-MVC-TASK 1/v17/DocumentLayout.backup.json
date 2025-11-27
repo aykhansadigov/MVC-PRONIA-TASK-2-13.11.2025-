@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +19,68 @@
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\viewmodels\\slides\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:viewmodels\\slides\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\viewmodels\\slides\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:viewmodels\\slides\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\backend-mvc-task 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:backend-mvc-task 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,16 +123,8 @@
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\backend-mvc-task 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:backend-mvc-task 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,24 +135,12 @@
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218BB470-81B8-4691-9ECA-5A8F6D8A5F78}|Backend-MVC-TASK 1.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-tasks\\backend-mvc-task\\migrations\\20251116201945_createproductsandcategoriesandproductimagestables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,23 +162,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-25T12:06:46.616Z"
+              "DocumentIndex": 5,
+              "Title": "UpdateSlideVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\ViewModels\\Slides\\UpdateSlideVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Slides\\UpdateSlideVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\ViewModels\\Slides\\UpdateSlideVM.cs*",
+              "RelativeToolTip": "ViewModels\\Slides\\UpdateSlideVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:23:15.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\_ViewImports.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T07:38:24.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateSlideVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\ViewModels\\Slides\\CreateSlideVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Slides\\CreateSlideVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\ViewModels\\Slides\\CreateSlideVM.cs*",
+              "RelativeToolTip": "ViewModels\\Slides\\CreateSlideVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:27:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:51:58.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Utilities\\Extensions\\FileValidator.cs*",
+              "RelativeToolTip": "Utilities\\Extensions\\FileValidator.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:43:34.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slide\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Update.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Update.cshtml*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T12:06:46.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -170,69 +259,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slide\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAABWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Index.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-21T12:38:35.458Z"
+              "WhenOpened": "2025-11-21T12:38:35.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:57:29.479Z"
+              "WhenOpened": "2025-11-24T08:57:29.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SlideController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Controllers\\SlideController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SlideController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Controllers\\SlideController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\SlideController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Controllers\\SlideController.cs*",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SlideController.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAK4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T12:37:46.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T09:13:13.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Slide\\Create.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Create.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T09:54:27.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
@@ -240,24 +331,25 @@
               "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:32:22.401Z"
+              "WhenOpened": "2025-11-21T11:32:22.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Slide.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Models\\Slide.cs",
               "RelativeDocumentMoniker": "Models\\Slide.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Models\\Slide.cs",
-              "RelativeToolTip": "Models\\Slide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Models\\Slide.cs*",
+              "RelativeToolTip": "Models\\Slide.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T08:01:04.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -269,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -281,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -293,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
@@ -305,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
@@ -317,19 +409,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-21T11:34:05.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -341,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "Models\\ProductImage.cs",
@@ -353,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\Shop\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Details.cshtml",
@@ -365,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -377,19 +469,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-21T11:36:16.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -401,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
@@ -413,91 +505,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 13,
               "Title": "Backend-MVC-TASK 1.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Backend-MVC-TASK 1.csproj",
               "RelativeDocumentMoniker": "Backend-MVC-TASK 1.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Backend-MVC-TASK 1.csproj",
-              "RelativeToolTip": "Backend-MVC-TASK 1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Backend-MVC-TASK 1.csproj*",
+              "RelativeToolTip": "Backend-MVC-TASK 1.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-21T11:27:22.721Z"
+              "WhenOpened": "2025-11-21T11:27:22.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 12,
               "Title": "DetailsVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\ViewModels\\DetailsVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\DetailsVM.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\ViewModels\\DetailsVM.cs",
               "RelativeToolTip": "ViewModels\\DetailsVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T11:36:45.448Z"
+              "WhenOpened": "2025-11-19T11:36:45.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAJYHAAAAAAAAAAAIwKAHAABWAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-11T17:25:30.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T17:26:25.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAMoHAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwMoHAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-12T12:34:06.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKMAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAIBJwKMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-11T18:22:27.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Controllers\\ShopController.cs",
               "RelativeToolTip": "Controllers\\ShopController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T08:06:25.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 11,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
@@ -505,11 +599,12 @@
               "RelativeToolTip": "ViewModels\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:43:28.282Z"
+              "WhenOpened": "2025-11-13T08:43:28.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "20251116201945_CreateProductsAndCategoriesAndProductImagesTables.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Migrations\\20251116201945_CreateProductsAndCategoriesAndProductImagesTables.cs",
               "RelativeDocumentMoniker": "Migrations\\20251116201945_CreateProductsAndCategoriesAndProductImagesTables.cs",
@@ -521,19 +616,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "20251113100135_Initial.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Migrations\\20251113100135_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20251113100135_Initial.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Migrations\\20251113100135_Initial.cs",
               "RelativeToolTip": "Migrations\\20251113100135_Initial.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T10:01:36.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-TASKS\\Backend-MVC-TASK\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
