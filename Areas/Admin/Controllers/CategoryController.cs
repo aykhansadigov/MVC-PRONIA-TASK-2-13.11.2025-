@@ -17,7 +17,7 @@ namespace Backend_MVC_TASK_1.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             List<Category> categories = await _context.Categories.Include(c => c.Products).ToListAsync();
-            return View(categories);
+            return View(categories);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
         }
         [HttpPost]
         public async Task<IActionResult> Create(Category category)
