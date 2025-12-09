@@ -31,7 +31,7 @@ using System.Drawing;
                         Name = p.Name,
                         Id = p.Id,
                         Price = p.Price,
-                        Image = p.ProductImages.FirstOrDefault(pi => pi.IsPrimary == true).Image,
+                        Image = p.ProductImages.FirstOrDefault(pi => pi.IsPrimaryImage == true).Image,
                         CategoryName = p.Category.Name
                     })
                     .ToListAsync();
@@ -147,13 +147,13 @@ using System.Drawing;
                 ProductImage main = new ProductImage
                 {
                     Image = await productVM.PrimaryPhoto.CreateFileAysnc(_env.WebRootPath, "assets", "images", "website-images"),
-                    IsPrimary = true,
+                    IsPrimaryImage = true,
                     CreatedAt = DateTime.Now
                 };
                 ProductImage secondary = new ProductImage
                 {
                     Image = await productVM.SecondaryPhoto.CreateFileAysnc(_env.WebRootPath, "assets", "images", "website-images"),
-                    IsPrimary = false,
+                    IsPrimaryImage = false,
                     CreatedAt = DateTime.Now
                 };
 
@@ -199,7 +199,7 @@ using System.Drawing;
                     product.ProductImages.Add(new()
                     {
                         Image = await file.CreateFileAysnc(_env.WebRootPath, "assets", "images", "website-images"),
-                        IsPrimary = null,
+                        IsPrimaryImage = null,
                         CreatedAt = DateTime.Now
 
                     });
@@ -343,14 +343,14 @@ using System.Drawing;
                 if (productVM.PrimaryPhoto is not null)
                 {
                     string mainFileName = await productVM.PrimaryPhoto.CreateFileAysnc(_env.WebRootPath, "assets", "images", "website-images");
-                    ProductImage existedMain = existed.ProductImages.FirstOrDefault(pi => pi.IsPrimary == true);
+                    ProductImage existedMain = existed.ProductImages.FirstOrDefault(pi => pi.IsPrimaryImage == true);
                     existedMain.Image.DeleteFile(_env.WebRootPath, "assets", "images", "website-images");
 
                     existed.ProductImages.Remove(existedMain);
                     existed.ProductImages.Add(new()
                     {
                         Image = mainFileName,
-                        IsPrimary = true,
+                        IsPrimaryImage = true,
                         CreatedAt = DateTime.Now
 
                     });
@@ -358,14 +358,14 @@ using System.Drawing;
                 if (productVM.SecondaryPhoto is not null)
                 {
                     string secondaryFileName = await productVM.SecondaryPhoto.CreateFileAysnc(_env.WebRootPath, "assets", "images", "website-images");
-                    ProductImage existedSecondary = existed.ProductImages.FirstOrDefault(pi => pi.IsPrimary == false);
+                    ProductImage existedSecondary = existed.ProductImages.FirstOrDefault(pi => pi.IsPrimaryImage == false);
                     existedSecondary.Image.DeleteFile(_env.WebRootPath, "assets", "images", "website-images");
 
                     existed.ProductImages.Remove(existedSecondary);
                     existed.ProductImages.Add(new()
                     {
                         Image = secondaryFileName,
-                        IsPrimary = false,
+                        IsPrimaryImage = false,
                         CreatedAt = DateTime.Now
 
                     });
@@ -376,7 +376,7 @@ using System.Drawing;
                 }
                 List<ProductImage> deleteImages = existed.ProductImages
                      .Where(pi => !productVM.ImageIds
-                         .Exists(imgId => pi.Id == imgId) && pi.IsPrimary == null)
+                         .Exists(imgId => pi.Id == imgId) && pi.IsPrimaryImage == null)
                      .ToList();
 
                 deleteImages
@@ -436,7 +436,7 @@ using System.Drawing;
                         existed.ProductImages.Add(new ProductImage()
                         {
                             Image = await file.CreateFileAysnc(_env.WebRootPath, "assets", "images", "website-images"),
-                            IsPrimary = null,
+                            IsPrimaryImage = null,
                             CreatedAt = DateTime.Now
 
                         });
