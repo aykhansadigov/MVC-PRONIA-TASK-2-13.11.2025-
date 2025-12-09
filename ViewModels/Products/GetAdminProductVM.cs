@@ -1,4 +1,4 @@
-﻿namespace Backend_MVC_TASK_1.Products
+﻿namespace Backend_MVC_TASK_1.ViewModels.Products
 {
     public class GetAdminProductVM
     {

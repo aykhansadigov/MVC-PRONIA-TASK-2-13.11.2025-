@@ -27,7 +27,7 @@ namespace Backend_MVC_TASK_1.Controllers
             }
 
             Product? product =await _context.Products
-                .Include(p=>p.ProductImages.OrderByDescending(pi=>pi.IsPrimaryImage))
+                .Include(p=>p.ProductImages.OrderByDescending(pi=>pi.IsPrimary))
                 .Include(p=>p.Category)
                 .FirstOrDefaultAsync(p => p.Id == id);
             if(product is null)
@@ -37,7 +37,7 @@ namespace Backend_MVC_TASK_1.Controllers
 
             List<Product> relatedProducts =await _context.Products
                 .Where(p=>p.CategoryId==product.CategoryId && p.Id!=id)
-                .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimaryImage!= null))
+                .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary != null))
                 .ToListAsync();
 
             DetailsVM detailsVM = new()

@@ -1,4 +1,5 @@
-﻿@model CreateProductVM
+﻿@using Backend_MVC_TASK_1.ViewModels.Products
+@model CreateProductVM
 
 <div class="row">
     <div class="col-12 grid-margin stretch-card">
@@ -26,18 +27,11 @@
                     </div>
                     <div class="form-group">
                         <label asp-for="CategoryId">Category</label>
-                        <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories, nameof(Category.Id), nameof(Category.CategoryName)))">
+                        <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories, nameof(Category.Id), nameof(Category.Name)))">
                             <option selected disabled value="">Choose Category</option>
                         </select>
-                        @*  <select asp-for="CategoryId" class="form-control">
+                      
 
-                            <option selected disabled value="">Choose Category</option>
-                           @foreach (Category category in Model.Categories)
-                            {
-                                <option value="@category.Id">@category.Name</option>
-                            }
-
-                       </select> *@
                         <span asp-validation-for="CategoryId" class="text-danger"></span>
 
                     </div>

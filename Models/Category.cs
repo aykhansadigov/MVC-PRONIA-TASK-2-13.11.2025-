@@ -4,7 +4,7 @@ namespace Backend_MVC_TASK_1.Models
 {
     public class Category:BaseEntity
     {
-        public string CategoryName { get; set; }
+        public string Name { get; set; }
         //relational
         [ValidateNever]
         public List<Product> Products { get; set; }

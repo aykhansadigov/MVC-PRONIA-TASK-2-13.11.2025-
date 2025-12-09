@@ -1,51 +1,119 @@
-﻿﻿
+﻿@using Pronia.ViewModels
+﻿
 @model UpdateProductVM
-
+@{
+    ProductImage primary = Model.ProductImages.FirstOrDefault(pi => pi.IsPrimary == true);
+    ProductImage secondary = Model.ProductImages.FirstOrDefault(pi => pi.IsPrimary == false);
+}
 <div class="row">
     <div class="col-12 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Update Product</h4>
+                <h4 class="card-title">Update</h4>
 
                 <form class="forms-sample" method="post" enctype="multipart/form-data">
+
+
+
+                    <div class="form-group">
+                        <img style="width:150px;height:150px;" src="~/assets/Images/website-Images/@primary.Image" />
+                        <br />
+                        <label asp-for="PrimaryPhoto">Primary Image</label>
+                        <input asp-for="PrimaryPhoto" accept="Image/*" class="form-control" placeholder="Photo">
+                        <span asp-validation-for="PrimaryPhoto" class="text-danger"></span>
+
+                    </div>
+                    <div class="form-group">
+                        <img style="width:150px;height:150px;" src="~/assets/Images/website-Images/@secondary.Image" />
+                        <br />
+                        <label asp-for="SecondaryPhoto">Secondary Image</label>
+                        <input asp-for="SecondaryPhoto" accept="Image/*" class="form-control" placeholder="Photo">
+                        <span asp-validation-for="SecondaryPhoto" class="text-danger"></span>
+
+                    </div>
+                    <div class="form-group d-flex">
+                        @foreach (ProductImage pImage in Model.ProductImages.Where(pi => pi.IsPrimary == null))
+                        {
+                            <div style="position:relative">
+                                <img style="width:150px;height:150px;" src="~/assets/Images/website-Images/@pImage.Image" />
+                                <button type="button" style="position:absolute;top:5px;right:5px;" class="btn btn-danger cus-delete">x</button>
+                                <input asp-for="ImageIds" type="hidden" value="@pImage.Id">
+                            </div>
+                        }
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="AdditionalPhotos">Additional Image</label>
+                        <input asp-for="AdditionalPhotos" class="form-control" placeholder="Photo">
+                        <span asp-validation-for="AdditionalPhotos" class="text-danger"></span>
+
+                    </div>
                     <div class="form-group">
                         <label asp-for="Name">Name</label>
-                        <input asp-for="Name" class="form-control" placeholder="Name">
+                        <input asp-for="Name" class="form-control" placeholder="Title">
                         <span asp-validation-for="Name" class="text-danger"></span>
                     </div>
                     <div class="form-group">
                         <label asp-for="Price">Price</label>
                         <input asp-for="Price" class="form-control" placeholder="Price">
                         <span asp-validation-for="Price" class="text-danger"></span>
-
                     </div>
+
                     <div class="form-group">
                         <label asp-for="SKU">SKU</label>
                         <input asp-for="SKU" class="form-control" placeholder="SKU">
                         <span asp-validation-for="SKU" class="text-danger"></span>
-
                     </div>
                     <div class="form-group">
                         <label asp-for="CategoryId">Category</label>
-                        <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories, nameof(Category.Id), nameof(Category.CategoryName)))">
+                        <select asp-for="CategoryId" class="form-control">
+
+                            @foreach (Category category in Model.Categories)
+                            {
+                                <option value="@category.Id">@category.Name</option>
+                            }
                         </select>
-
                         <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="TagIds">Tag</label>
+                        <select asp-for="TagIds" class="form-control">
 
+                            @foreach (Tag tag in Model.Tags)
+                            {
+                                <option value="@tag.Id">@tag.Name</option>
+                            }
+                        </select>
+                        <span asp-validation-for="TagIds" class="text-danger"></span>
                     </div>
 
                     <div class="form-group">
-                        <label asp-for="TagIds">Tags</label>
-                        <select asp-for="TagIds" class="form-control" asp-items="@(new SelectList(Model.Tags, nameof(Tag.Id), nameof(Tag.Name)))">
-                        </select>
-                        <span asp-validation-for="TagIds" class="text-danger"></span>
+                        <label asp-for="ColorIds">Color</label>
+                        <select asp-for="ColorIds" class="form-control">
 
+                            @foreach (Color color in Model.Colors)
+                            {
+                                <option value="@color.Id">@color.Name</option>
+                            }
+                        </select>
+                        <span asp-validation-for="ColorIds" class="text-danger"></span>
                     </div>
+                    <div class="form-group">
+
+                        <label asp-for="SizeIds">Size</label>
+                        <select asp-for="SizeIds" class="form-control">
+
+                            @foreach (Size size in Model.Sizes)
+                            {
+                                <option value="@size.Id">@size.Name</option>
+                            }
+                        </select>
+                        <span asp-validation-for="SizeIds" class="text-danger"></span>
+                    </div>
+
                     <div class="form-group">
                         <label asp-for="Description">Description</label>
                         <textarea asp-for="Description" class="form-control" rows="4"></textarea>
                         <span asp-validation-for="Description" class="text-danger"></span>
-
                     </div>
                     <button type="submit" class="btn btn-primary me-2">Submit</button>
                     <button class="btn btn-light">Cancel</button>
@@ -53,4 +121,19 @@
             </div>
         </div>
     </div>
+</div>
+
+@section DeleteButtons {
+    <script>
+        var btns=document.querySelectorAll(".cus-delete");
+        for(let i=0; i<btns.length; i++) {
+            btns[i].addEventListener("click",function(){
+                btns[i].parentElement.remove()
+            })
+        }
+
+
+    </script>
+
+}
 </div>
